@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 // react-router-dom v6+ exports BrowserRouter, Routes and Route directly.
 // we don't need `Switch` (replaced by Routes) and we aren't using the
